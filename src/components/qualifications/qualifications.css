@@ -1,0 +1,102 @@
+.qual__container {
+    max-width: 768px;
+  }
+  .qual__button {
+    font-size: var(--h3-font-size);
+    font-weight: var(--font-medium);
+    cursor: pointer;
+    color:blue;
+  }
+  
+  .qual__button:hover {
+    color: green;
+
+  }
+  
+  .qual__icon {
+    font-size: 1.8rem;
+    color:red;
+    justify-content: center;
+  }
+  
+
+  
+  .qual__sections {
+    display: grid;
+    grid-template-columns:.5fr;
+    justify-content: center;
+    
+  }
+  
+  .qual__data {
+    color:blue;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 2rem 4rem;
+    border-radius: 2rem;
+  }
+  
+  
+  .qual__data {
+    margin-top: 1rem;
+    row-gap: 1.5rem;
+    text-align: center;
+  }
+  
+  .qual__title {
+    font-size: 1.5rem;
+    font-weight: var(--font-medium);
+    
+  }
+  
+  .qual__subtitle {
+    /* display: inline-block; */
+    font-size: var(--small-font-size);
+    margin-top: .4rem;
+  }
+  .grade,
+  .uil-calendar-alt
+  {
+      color: red;
+      
+  }
+  
+  
+  /*=============== BREAKPOINTS ===============*/
+  /* For large devices */
+  @media screen and (max-width: 992px) {
+      .qual__container
+      {
+          margin-left: auto;
+          margin-right: auto;
+      }
+    }
+    
+    /* For medium devices */
+    @media screen and (max-width: 768px) {
+      .qual__container
+      {
+          margin-left: var(--mb-1-5);
+          margin-right: var(--mb-1-5);
+      }
+    }
+    
+    @media screen and (max-width: 576px) {
+      .qual__sections
+      {
+          grid-template-columns: initial;
+      }
+  
+      .qual__button
+      {
+          margin: 0 var(--mb-0-75);
+      }
+    }
+    
+    /* For small devices */
+    @media screen and (max-width: 350px) {
+      .qual__data
+      {
+          gap: .5rem;
+      }
+    }
+    
