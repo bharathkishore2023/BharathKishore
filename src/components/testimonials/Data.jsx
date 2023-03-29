@@ -15,7 +15,7 @@ export const Data = [
       id: 2,
       image: Image2,
       title: "Vanathi RM",
-      subtitle: "Founder of Thats My Foundation",
+      subtitle: "Founder of Thats My Child Foundation",
       description:
         "Thank you mam for paving the right path for me, supporting me and giving me some responsibility and thereby teaching me the importance of leadership.",
     },
