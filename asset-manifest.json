@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/BharathKishore/static/css/main.53d33077.css",
-    "main.js": "/BharathKishore/static/js/main.c7d305b1.js",
+    "main.js": "/BharathKishore/static/js/main.57e3c27a.js",
     "static/media/test_2.1.jpg": "/BharathKishore/static/media/test_2.1.c9d0ec4b894665f40600.jpg",
     "static/media/Bharath_Kishore R_Resume.pdf": "/BharathKishore/static/media/Bharath_Kishore R_Resume.814518b5050d950e5f23.pdf",
     "static/media/test_1.jpg": "/BharathKishore/static/media/test_1.418d58913b84c83fca8a.jpg",
@@ -9,10 +9,10 @@
     "static/media/white.jpg": "/BharathKishore/static/media/white.5cad408ac9e750680173.jpg",
     "index.html": "/BharathKishore/index.html",
     "main.53d33077.css.map": "/BharathKishore/static/css/main.53d33077.css.map",
-    "main.c7d305b1.js.map": "/BharathKishore/static/js/main.c7d305b1.js.map"
+    "main.57e3c27a.js.map": "/BharathKishore/static/js/main.57e3c27a.js.map"
   },
   "entrypoints": [
     "static/css/main.53d33077.css",
-    "static/js/main.c7d305b1.js"
+    "static/js/main.57e3c27a.js"
   ]
 }
