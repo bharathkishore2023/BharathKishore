@@ -25,7 +25,7 @@ export const Data = [
       title:"Jayashree",
       subtitle:"Senior consultant-Thoughtworks",
       description:
-        "Whenever I fail and get discouraged.You motivate me by said that it's all a learning experience.you will get a better one.Be calm and hope. Thankyou akka ",
+        "Whenever I fail and get discouraged ,You motivate me by said that it's all a learning experience and ask me to hope that you will get a better one. Thankyou akka ",
     },
   ];
   
